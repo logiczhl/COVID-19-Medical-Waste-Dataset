@@ -20,17 +20,18 @@ Additionally, data on potential daily emergency disposal capacity was gathered, 
 
 # Data Structure
 The data is primarily organized in time-series format, with separate files for each dataset. Key components include:
--COVID-19 Data: The data includes confirmed cases, suspected cases, serious cases, cured cases, deaths, and close contacts. This data is categorized at the national, provincial, and city levels to comprehensively analyze the pandemic’s trends. The data is structured in a time-series format to ensure an accurate reflection of the pandemic dynamics at different time points.
--Large-Scale Nucleic Acid Testing Data: The nucleic acid testing data includes daily records of testing instances across cities, with detailed fields for start and end dates, city and province, coverage area (such as citywide, key areas, or specific populations), number of people tested, and source URLs.
--City-level Medical Waste Generation Data: For medical waste generation, we collected annual average medical waste generation data for cities from 2019 to 2021.
--City-level Medical Waste Disposal Capacity Data: The data includes disposal capacity for 2019, 2020, and 2021, as well as hazardous waste incineration and municipal solid waste incineration capacities for each city. By compiling data from over 2,000 incineration facilities, we focused on grate furnace incineration facilities suitable for emergency medical waste disposal, ensuring the comprehensiveness and accuracy of the disposal capacity data.
+* COVID-19 Data: The data includes confirmed cases, suspected cases, serious cases, cured cases, deaths, and close contacts. This data is categorized at the national, provincial, and city levels to comprehensively analyze the pandemic’s trends. The data is structured in a time-series format to ensure an accurate reflection of the pandemic dynamics at different time points.
+* Large-Scale Nucleic Acid Testing Data: The nucleic acid testing data includes daily records of testing instances across cities, with detailed fields for start and end dates, city and province, coverage area (such as citywide, key areas, or specific populations), number of people tested, and source URLs.
+* City-level Medical Waste Generation Data: For medical waste generation, we collected annual average medical waste generation data for cities from 2019 to 2021.
+* City-level Medical Waste Disposal Capacity Data: The data includes disposal capacity for 2019, 2020, and 2021, as well as hazardous waste incineration and municipal solid waste incineration capacities for each city. By compiling data from over 2,000 incineration facilities, we focused on grate furnace incineration facilities suitable for emergency medical waste disposal, ensuring the comprehensiveness and accuracy of the disposal capacity data.
 
 # Use Cases
 This dataset is designed to support research, policy development, and operational decision-making related to medical waste management during pandemics. Key use cases include:
--Medical Waste Management: Identifying gaps in disposal capacity and formulating optimization strategies for efficient medical waste treatment and disposal during public health emergencies.
--Epidemiological Research: Analyzing the correlation between the progression of the pandemic and medical waste generation, helping to better understand the impact of COVID-19 on waste production across different regions.
--Public Health Policy: Informing the development of effective public health policies and guidelines for managing medical waste during pandemics and other public health crises.
--Urban Planning and Infrastructure Development: Assisting city planners in forecasting medical waste generation trends, determining appropriate disposal infrastructure, and enhancing the preparedness of waste management systems for future pandemics.
+* Medical Waste Management: Identifying gaps in disposal capacity and formulating optimization strategies for efficient medical waste treatment and disposal during public health emergencies.
+* Epidemiological Research: Analyzing the correlation between the progression of the pandemic and medical waste generation, helping to better understand the impact of COVID-19 on waste production across different regions.
+* Public Health Policy: Informing the development of effective public health policies and guidelines for managing medical waste during pandemics and other public health crises.
+* Urban Planning and Infrastructure Development: Assisting city planners in forecasting medical waste generation trends, determining appropriate disposal infrastructure, and enhancing the preparedness of waste management systems for future pandemics.
+  
 This dataset can provide valuable insights for cities, public health authorities, and waste management organizations to optimize their strategies for medical waste disposal, ensuring better preparedness and response during future public health emergencies.
 
 
